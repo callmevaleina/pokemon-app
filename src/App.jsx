@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
 import axios from 'axios'
 import PokemonBox from './components/PokemonBox'
